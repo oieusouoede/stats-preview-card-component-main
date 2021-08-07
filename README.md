@@ -17,7 +17,7 @@ See all the screenshots on the [screenshots folder](./screenshots/).
 
 ### Links
 
-The page is hosted [here]().
+The page is hosted [here](https://oieusouoede.github.io/stats-preview-card-component-main/).
 
 ### My process
 
