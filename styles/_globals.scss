@@ -1,0 +1,19 @@
+html {
+    font-size: 100%;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+
+body{
+    background-color: $veryDarkBlue;
+    font-size: 15px;
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
