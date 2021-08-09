@@ -86,7 +86,7 @@ body {
 
 .stats-numbers {
   color: white;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-weight: 700;
   font-size: 1.5rem;
 }
@@ -94,13 +94,13 @@ body {
 .stats-headings {
   color: rgba(255, 255, 255, 0.6);
   text-transform: uppercase;
-  font-family: 'Lexend Deca', sans-serif;
+  font-family: "Lexend Deca", sans-serif;
   font-size: 0.85rem;
 }
 
 h1 {
-  font-family: 'Inter', sans-serif;
-  line-height: 2.70rem;
+  font-family: "Inter", sans-serif;
+  line-height: 2.7rem;
   font-size: 2.25rem;
   margin: 0;
 }
@@ -150,7 +150,8 @@ img {
   text-align: center;
 }
 
-a, a:visited {
+a,
+a:visited {
   color: #aa5cdb;
   text-decoration: none;
 }
@@ -179,7 +180,6 @@ a, a:visited {
     border-radius: 0.5rem 0.5rem 0 0;
     width: 100%;
     height: auto;
-    overflow: scroll;
   }
   img {
     width: 100%;
